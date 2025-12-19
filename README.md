@@ -1,4 +1,4 @@
-# Power-BI-Dashboard
+# 📌 Project Overview
 The Power BI Dashboard delivers a comprehensive, interactive analysis of sales performance, customer behavior, delivery efficiency, and revenue growth.
 It is designed to help business stakeholders monitor key KPIs, identify operational bottlenecks, and make data-driven decisions across time, geography, and product categories.<br>
 <br>
